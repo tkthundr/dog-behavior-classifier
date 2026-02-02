@@ -5,5 +5,5 @@
     "0": "dog_pooping",
     "1": "dog_peeing"
   },
-  "files": ["best.onnx"]
+  "files": ["model.onnx"]
 }
